@@ -1,0 +1,28 @@
+body {
+    background-color: #e5e5e5;
+}
+
+nav ul li a {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #d4d3d3;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+@media only screen and (max-width: 840px){
+.display-4 {
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 0.9;
+    margin: 40px auto;
+    text-align: center;
+    text-transform: uppercase;
+    }
+}
